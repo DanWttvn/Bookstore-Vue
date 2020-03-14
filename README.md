@@ -1,4 +1,4 @@
-# p2b-searcher
+# Bookstore with Vue
 
 ## Project setup
 ```
